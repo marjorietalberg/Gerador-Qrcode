@@ -69,6 +69,13 @@ sudo apt install python-is-python3
  
 ## 📷 Captura de Tela
 
+  <img src="https://github.com/user-attachments/assets/e39ccc23-132f-4eef-847f-4972be1874aa" alt="Imagem 2" />
+ <img src="https://github.com/user-attachments/assets/a21f0772-a455-4505-997c-00afe43796e1" alt="Imagem 1" />
+    <img src="https://github.com/user-attachments/assets/9704d13a-c74c-4938-b4e9-7778d23d944a" alt="Imagem 3" />
+    <img src="https://github.com/user-attachments/assets/0b8eba90-5509-4aa9-b6d1-144408099b14" alt="Imagem 4" />
+    <img src="https://github.com/user-attachments/assets/46232a78-dc9a-4565-a1fe-f5de8e1b815c" alt="Imagem 5" />
+    <img src="https://github.com/user-attachments/assets/79e3e6e6-b432-454a-8ea9-f19287b12f2f" alt="Imagem 6" />
+    <img src="https://github.com/user-attachments/assets/4afa9d7b-768c-4f79-898e-152a513312ed" alt="Imagem 7" />
 
 
 ## 🔧 Explicação Técnica
